@@ -1,4 +1,4 @@
-#IC-verification
+# IC-verification
 ![本质高手](https://github.com/Lesson927/IC-verification/blob/main/images/%E5%A5%B6%E9%BE%99.jpg)  
 Lesson begin on 2025/7/25  
 **“胸有惊雷而面如平湖者，可拜上将军。”**  
