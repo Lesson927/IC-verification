@@ -1,5 +1,5 @@
 #IC-verification
-![本地路径](.\\images\\奶龙.jpg "相对路径演示,上一级目录")  
+![本质高手](https://github.com/Lesson927/IC-verification/blob/main/images/%E5%A5%B6%E9%BE%99.jpg)  
 Lesson begin on 2025/7/25  
 **“胸有惊雷而面如平湖者，可拜上将军。”**  
 这些文档主要记录我开始IC验证工作以来的学习过程。  
